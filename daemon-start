@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo service nginx start
+bundle exec rake daemons:start
+sudo service nginx status

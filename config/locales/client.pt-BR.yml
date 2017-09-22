@@ -1,14 +1,14 @@
-en:
+pt-BR:
   js:
     brand: BCEX.IO
-    submit: Submit
-    cancel: Cancel
-    confirm: Confirm
+    submit: Enviar
+    cancel: Cancelar
+    confirm: Confirmar
     banks:
       bb: Banco do Brasil S.A.
       bbd: Banco Bradesco S.A.
       bcb: Banco Citibank S.A.
-      bs: Banco Santander S.A.
+      bs: Banco Santander (Brasil) S.A.
       cef: Caixa Economica Federal
       iub: Itaú Unibanco S.A.
       bo: Banco Original S.A.
@@ -18,7 +18,7 @@ en:
       manage_bank_account_desc: To facilitate the choice of bank withdrawals address
       manage_coin_address: Coin Address Management
       manage_coin_address_desc: To facilitate the choice of coin withdrawals address
-      bank: Bank
+      bank: Banco
       account: Bank Account
       label: Label
       address: Address
@@ -27,31 +27,31 @@ en:
       remove: Remove
       default: Default
     funds:
-      deposit: Deposit
-      withdraw: Withdraw
+      deposit: Depósito
+      withdraw: Saque
       currency_name:
         brl: BRL
         btc: BTC
       deposit_brl:
-        title: Brazilian Real
-        desc: "To deposit via Bank transfer, please follow these steps:"
+        title: Real
+        desc: "Para depósito via transferência bancária, favor seguir os passos abaixo:"
         desc_item_1: "1. Submit the form to get the identification code."
         desc_item_2: "2. Transfer the money to exchange's bank account. Please make sure your referral code was written on the form you fill in."
         desc_item_3: "3. Your deposit will be confirmed as soon as the money is received."
         attention: "Attention: The name of your bank account must be the same as your account name on our site, otherwise your deposit may fail."
-        from: From
-        to: To
-        deposit_name: Your Name
-        deposit_account: Deposit Account
-        add: Add
-        manage: Manage
-        amount: Deposit Amount
-        min_amount: At least 10 reals
-        to_account: Account
-        to_name: Name
-        to_bank_name: Bank Name
-        opening_bank_name: Account where created
-        remark: 'Referral Code (Transfer identification code)'
+        from: De
+        to: Para
+        deposit_name: Seu Nome
+        deposit_account: Conta de Depósito
+        add: Adicionar
+        manage: Gerenciar
+        amount: Quantia a ser Depositada
+        min_amount: Mínimo de 10 Reais
+        to_account: Conta
+        to_name: Nome
+        to_bank_name: Nome do Banco
+        opening_bank_name: Agência
+        remark: 'Código de Identificação de Transação'
 
       deposit_btc:
         title: BTC Deposit
@@ -89,7 +89,7 @@ en:
         suspect: Suspect
 
       withdraw_brl:
-        title: Brazilian Real Withdraw
+        title: Saque em Reais
         intro: Select the bank to cash withdrawal amount and enter the account number and complete submission.
         intro_2: Your bank account and name must be consistent with the real-name authentication name.
         attention: "Working Hours: 9:00 - 18:00"

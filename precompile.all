@@ -1,0 +1,9 @@
+#!/bin/bash
+sudo service nginx stop
+bundle exec rake daemons:stop
+rm -rf /home/deploy/peatio/current/tmp/cache
+rm -rf /home/deploy/peatio/current/public/assets
+bundle exec rake assets:precompile
+sudo service nginx start
+bundle exec rake daemons:start
+echo Script DONE!!

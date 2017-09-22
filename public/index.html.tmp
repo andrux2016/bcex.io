@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATEDhttp://templated.co
+Released for free under the Creative Commons Attribution License
+Name       : Uprightness Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0Released   : 20130920
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+    <title></title>
+    <meta content="" name="keywords" />
+    <meta content="" name="description" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" />
+    <link media="all" type="text/css" rel="stylesheet" href="default.css" />
+    <link media="all" type="text/css" rel="stylesheet" href="fonts.css" />
+    <!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+  </head>
+  <body>
+    <div id="header-wrapper">
+      <div class="container" id="header">
+        <div id="logo">
+          <h1><a href="#">bcex.io</a></h1>
+        </div>
+        <div id="menu">
+          <ul>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="featured"> </div>
+    <div id="wrapper">
+      <div class="container" id="page">
+        <div id="content">
+          <div class="title">
+            <h2>BCEX.IO - Brazilian Coin Exchange</h2>
+            <span class="byline">O seu trader de cripto moedas</span> </div>
+          <p style="width: 635px; text-align: justify;">O futuro chegou mais
+            cedo. Hoje, com as atuais interfaces tecnológicas, podemos cada vez
+            mais nos utilizar da tecnologia a favor da segurança, da praticidade
+            e principalmente, da liberdade.<br />
+            A BCEX - Brazilian Coin Exchange chegou para intermediar e facilitar
+            a compra e venda de ativos criptografados, ou moedas digitais, como
+            o BITCOIN e o ETHEREUM.</p>
+          <p><br />
+          </p>
+          <a class="button" href="https://www.bcex.com.br/markets/btcbrl" target="_blank">vamos
+            começar</a> </div>
+        <div id="sidebar">
+          <div id="stwo-col">
+            <div class="sbox1">
+              <h2>REgistre-se</h2>
+              <ul class="style2">
+                <li><a href="https://www.bcex.com.br/signup">Criar nova conta<br />
+                  </a></li>
+              </ul>
+            </div>
+            <div class="sbox2">
+              <h2>entrar</h2>
+              <ul class="style2">
+                <li><a href="https://www.bcex.com.br/signin">Já tenho conta<br />
+                  </a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="banner-wrapper">
+        <div class="container" id="page">
+          <div class="box-left">
+            <h2>Nossa Visão</h2>
+            <p style="text-align: justify; width: 635px;"> <span style="width: 635px; height: 148px;">A
+                BCEX.IO nasceu a partir de um grupo de pessoas apaixonadas por 
+                moedas digiais e que trabalham muito por mais liberdade e pelo
+                fim das interferências, sejam governamentais, sejam
+                corporativas. Acreditamos no poder da Internet para a
+                descentralização de serviços, para que, cada vez mais, possamos
+                viver em um mundo  com menos regulamentação e mais liberdade.</span>
+            </p>
+          </div>
+          <div class="box-right"> <a class="button button-big" href="https://www.bcex.com.br/markets/btcbrl"
+              style="width: 706px; margin-left: 769px; margin-top: -293px;" target="_blank">vamos
+              começar</a></div>
+        </div>
+      </div>
+      <div id="featured-wrapper">
+        <div class="container" id="featured">
+          <div class="major">
+            <h2>Afinal, o que é BITCOIN?</h2>
+            <span class="byline">Em poucas palavras, BITCOIN é o dinheiro da
+              Internet.</span> </div>
+          <div class="column1"> <span class="icon icon-gift"></span>
+            <div class="title">
+              <h2>Compras Online</h2>
+            </div>
+            <p>Cada vez mais cresce a aceitação das moedas digitais no mundo .
+              Hoje por exemplo, você consegue comprar livros no Amazon.com com
+              descontos enormes se pagar em moedas digitais.</p>
+          </div>
+          <div class="column2"> <span class="icon icon-glass"></span>
+            <div class="title">
+              <h2>Compras presenciais</h2>
+            </div>
+            <p>Países como Japão e Austrália já regulamentaram a utilização de
+              moedas digitais em transações comuns, do dia a dia. É a tecnologia
+              facilitando a vida de todos.</p>
+          </div>
+          <div class="column3"> <span class="icon icon-music"></span>
+            <div class="title">
+              <h2>Músicas e mídia</h2>
+            </div>
+            <p>Quem nunca comprou música online? Pois saibam que já existem quem
+              facilite a sua compra se você usar de moedas digitais!</p>
+          </div>
+          <div class="column4"> <span class="icon icon-group"></span>
+            <div class="title">
+              <h2>Liberdade</h2>
+            </div>
+            <p>Moedas digitais nos permite ter acesso a um universo de novas
+              oportunidades. Pela sua facilidade de utilização, casa de câmbio não
+              são mais necessárias. Investimentos são mais rentáveis. E tudo
+              isso dentro do conforto de sua casa.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container" id="copyright">
+      <p>© Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a>
+        | Design by <a rel="nofollow" href="http://templated.co">TEMPLATED</a>.</p>
+    </div>
+  </body>
+</html>
